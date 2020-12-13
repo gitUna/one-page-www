@@ -69,7 +69,7 @@ const obsChart = function (entries) {
 
 const chartOptions = {
   root: null,
-  threshold: 0.5,
+  threshold: 0.2,
 };
 
 const chartObserver = new IntersectionObserver(obsChart, chartOptions);
