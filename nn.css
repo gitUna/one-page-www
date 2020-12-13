@@ -393,7 +393,7 @@ svg .outline {
     margin: 0 0;
     width: 100%;
     flex-wrap: wrap;
-    justify-items: flex-end;
+    justify-content: end;
   }
   ul li {
     font-size: 1.2em;
@@ -427,7 +427,6 @@ svg .outline {
     flex-wrap: wrap;
   }
   .offer-item {
-    /* padding: 30px; */
     width: 100%;
   }
   .tab-list {
