@@ -393,6 +393,7 @@ svg .outline {
     margin: 0 0;
     width: 100%;
     flex-wrap: wrap;
+    justify-items: flex-end;
   }
   ul li {
     font-size: 1.2em;
