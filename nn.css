@@ -110,7 +110,7 @@ section {
 }
 #sec1 {
   background-color: var(--sub-color);
-  padding: 10px 0px 30px;
+  padding: 10px 30px 30px;
   width: 50%;
   max-height: 667px;
   overflow-y: auto;
