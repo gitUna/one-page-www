@@ -448,6 +448,9 @@ svg .outline {
   #title4 {
     margin: 4% auto 14% 0;
   }
+  #section4{
+    justify-content: center;
+  }
   .chart {
     margin-bottom: 10%;
   }
