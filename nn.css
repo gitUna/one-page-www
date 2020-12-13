@@ -451,6 +451,9 @@ svg .outline {
   .chart {
     margin-bottom: 10%;
   }
+  .chart-container {
+    padding: 3px;
+  }
   #section5 {
     flex-wrap: wrap;
   }
